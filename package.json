@@ -1,0 +1,23 @@
+{
+  "name": "roamr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roamrfam/roamr.git"
+  },
+  "author": "Alice Kao, Daniel Novograd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roamrfam/roamr/issues"
+  },
+  "homepage": "https://github.com/roamrfam/roamr#readme",
+  "dependencies": {
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0"
+  }
+}
